@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Zenzai Itacha";
+    src: url("../fonts/Zenzai-Itacha.ttf");
+}
+
 * {
     margin: 0 auto;
     padding: 0;
@@ -17,6 +22,8 @@ header {
 
 h1 {
     text-align: center;
+    font-family: "Zenzai Itacha";
+    font-size: 40px;
 }
 
 nav {
